@@ -1,0 +1,39 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Environment variables
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Model weights (optional - if very large)
+*.h5
+*.pt
+*.pth
+*.ckpt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+env/
+media/
+db.sqlite3
+*.h5
+*.pt
+*.pth
