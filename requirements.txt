@@ -3,8 +3,4 @@ gunicorn
 whitenoise
 pillow
 numpy
-<<<<<<< HEAD
 tensorflow
-=======
-tensorflow
->>>>>>> 3e139fcfc03d2469c0c79bc8104a6576116bfddb
